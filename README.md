@@ -1,2 +1,2 @@
 # git-basics
-navya
+this is demo class
